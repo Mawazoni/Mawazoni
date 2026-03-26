@@ -1,4 +1,4 @@
-# Mathieu Roy
+# Mathieu Roy (Mawazoni) | ORCID 0000-0001-7684-4355
 ### PhD in African Studies · Specialization in Swahili · BSc Computer Science
 
 ---
