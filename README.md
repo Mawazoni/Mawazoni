@@ -1,4 +1,4 @@
-## Habari 👋🏻 I'm Mathieu Roy — *Mawazoni* 🌍📖
+## Habari 👋🏻 I'm Mathieu Roy — *Mawazoni* 🌍
 
 ### Biography
 As a linguist and a scholar of classical Swahili poetry and manuscript studies, I conduct research throughout East Africa, combining editorial work on Swahili literature with interdisciplinary methodologies. My expertise spans linguistics, computer science, and humanities, underpinned by proficiency in Ancient Greek, Arabic, and Swahili. I maintain active engagement with computational advances.
