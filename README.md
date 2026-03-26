@@ -5,6 +5,10 @@ As a linguist and a scholar of classical Swahili poetry and manuscript studies, 
 
 My alias, 'Mawazoni,' is a Swahili term meaning 'in the thoughts' or even 'lost in the thoughts', which serves to distinguish my academic and technical profile from that of my homonym, the filmmaker.
 
+**📌 Featured Work**
+
+If you're here for code, my main open contribution is the **[NooJ Kiswahili Module](https://github.com/Mawazoni/KiswahiliModuleNooJ)** — a morphological grammar and 45,000-entry dictionary for computational analysis of Standard Swahili, freely distributed under CC BY-NC-SA 3.0.
+
 ---
 
 ### 🛠️ What I Do
