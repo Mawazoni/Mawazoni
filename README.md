@@ -21,7 +21,7 @@ If you're here for code, my main open contribution is the **[NooJ Kiswahili Modu
 
 - **Research:** PhD in African Studies, specializing in Swahili language, poetry, and literature.
 - **Publishing:** Head of DL2A Buluu Publishing, having successfully edited and published over 20 books in Swahili, bringing both classical manuscripts and contemporary authors to light.
-- **Diplomacy & Training:** Former Swahili Trainer at the French Ministry of Foreign Affairs and Assistant to the Second Counselor of the Chancery.
+- **Diplomacy & Language Teaching:** Former Swahili Language Instructor at the French Ministry of Foreign Affairs and Assistant to the Second Counselor of the Chancery.
 - **Computational Linguistics:** Author of the Kiswahili Module for NooJ.
 
 #### Sovereign Network Architecture & Backend Development
