@@ -1,5 +1,5 @@
 # Mathieu Roy (Mawazoni) | ORCID 0000-0001-7684-4355
-### PhD in African Studies · Specialization in Swahili · BSc Computer Science
+### PhD in African Studies · Specialization in Swahili · Bachelor in Computer Science · Bachelor in NLP
 
 ---
 
@@ -22,13 +22,13 @@ If you're here for code, my main open contribution is the **[NooJ Kiswahili Modu
 - **Research:** PhD in African Studies, specializing in Swahili language, poetry, and literature.
 - **Publishing:** Head of DL2A Buluu Publishing, having successfully edited and published over 20 books in Swahili, bringing both classical manuscripts and contemporary authors to light.
 - **Diplomacy & Language Teaching:** Former Swahili Language Instructor at the French Ministry of Foreign Affairs and Assistant to the Second Counselor of the Chancery.
-- **Language Resources:** Author of the Kiswahili Module for NooJ.
+- **Language Resources:** Bachelor in Natural Language Processing (NLP); author of the Kiswahili Module for NooJ; acoustic analysis of Swahili poetry with Python and Parselmouth (Praat).
 
 #### Sovereign Network Architecture & Backend Development
 
 > *True preservation requires physical and logical independence.*
 
-- **Infrastructure & Security:** BSc in General Computer Science and certified IT Technician. I design and administer secure networks (LAN/WAN, OSI, TCP/IP) with a strong focus on Cybersecurity.
+- **Infrastructure & Security:** Bachelor in General Computer Science and certified IT Technician. I design and administer secure networks (LAN/WAN, OSI, TCP/IP) with a strong focus on Cybersecurity.
 - **Virtualization & NetDevOps:** Expert in deploying and managing servers with Linux, Docker, Kubernetes, and VMWare.
 - **Development:** Strong backend focus with Node.js, JavaScript, and Python, alongside database management (SQL/NoSQL, MongoDB).
 
